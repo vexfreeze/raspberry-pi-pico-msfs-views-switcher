@@ -1,4 +1,5 @@
 Automatic views switcher for msfs running on raspberry pi pico
+
 Works on Xbox with Short Keyboard profile selected for keyboard
 
 For initial steps follow:
