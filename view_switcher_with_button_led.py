@@ -17,7 +17,7 @@ led_state = 0
 kbd = Keyboard(usb_hid.devices)
 
 def wait_button(seconds: float) -> None:
-    for x in range(10):
+    for x in range(seconds/0.1):
         global button_state
         global led_state
         last_state = button_state
